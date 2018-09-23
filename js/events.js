@@ -7,6 +7,7 @@ function getIt() {
 function frameIt() {
   var addClass = document.querySelector('img');
   addClass.className = "tasty"
+  return
 }
 
 $(document).ready(function(){
