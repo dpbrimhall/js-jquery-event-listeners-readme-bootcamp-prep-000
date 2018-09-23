@@ -4,6 +4,10 @@ function getIt() {
   })
 }
 
+function frameIt() {
+  $(".class")
+}
+
 $(document).ready(function(){
 
 // call functions here
