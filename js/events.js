@@ -23,7 +23,9 @@ function submitIt() {
 }
 
 $(document).ready(function(){
-
-// call functions here
-
+  frameIt();
+  pressIt();
+  submitIt();
+  submitIt();
+  return
 });
